@@ -3,7 +3,7 @@
 
 import Cocoa
 
-class ___VARIABLE_viewControllerName:identifier___: ___VARIABLE_viewControllerSubclass___ {
+final class ___VARIABLE_viewControllerName:identifier___: ___VARIABLE_viewControllerSubclass___ {
 
     private var viewModel: ___VARIABLE_viewModelName:identifier___?
 
